@@ -275,10 +275,6 @@ This manor is the smallest of the four noble houses overlooking Sandpoint, yet t
 ### **50 Deverin Manor**
 Living within the largest manor, the Deverins have traditionally held leadership roles in Sandpoint. Old Amos Deverin served as the town’s first mayor for 23 years, and his son Fenchus served as its second. Both Deverins perished after unfortunate accidents (Amos was trampled by a runaway horse on Festival street and Fenchus was killed by a snakebite while on a boar hunt), leaving Amos’s youngest daughter as the heir to the family fortune and a likely candidate for mayor. Kendra Deverin (NG female human aristocrat 4/expert 3) didn’t initially want the job, but after she was nominated for the role by her close friend Casp Avertin, she won the election by a landslide, something her primary opponent in the election, Titus Scarnetti, has never quite come to terms with. For some time there was talk of her and Casp becoming wife and husband, but Casp’s death at Chopper’s hands cut that short. Kendra’s recovered now from the shock, but has put aside all interest in romance for politics. She shares this manor with her brother’s rather large family, and although her sister-in-law Vana constantly complains about needing even more space and luxuries, Kendra has done a saintly job so far in keeping her temper under control.
 
-## NPCs
-### Lorem Ipsum
-Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
-
 ## Nualia's Journal
 ### **Entry  - 28 Gozran, 4690 AR**
 I started school recently.  A lot of the other children are mean to me.  They pick on me,  tease me, call me things like bright eyes or little grandma or fallen angel.  They treat me like i’m a freak!.  Some of the boys were making fun of me, saying that if they touched me it’d cure illnesses they had.  So they’d run by as fast as they could and touch me, but they were running so fast that it hurt, and then they just started to do it faster and faster and faster and it hurt so much.  Headmaster Gandethus stops them from picking on me, but he’s not always there and then they’re meaner to me.  Why are they so mean to me?  I didn’t ask to be like this…  Father tells me this is my blessing from the gods.  I pray to them every night.  I want to know why I was made like this…
@@ -507,6 +503,9 @@ Maybe at the time of our deaths, we'll be together again.
 ## Sandpoint Places of Interest
 ### **8 Sage - Discuss Theories**
 Brodert has been studying ancient Thassilonian ruins for the past several years and has recently become obsessed with the Old Light. No one believes his theories that the tower was once a war machine capable of spewing fire to a range of more than a mile.
+
+### **44 The Feathered Serpent - Might be able to get a wand of inflict wounds**
+This cramped and cluttered shop smells of a strange mixture of incense, spice, and dust. Its sole proprietor, Vorvashali Voon (LN male human wizard 2/rogue 2/expert 2), an exotic-looking character with bright blue eyes, long red hair, and almost bronze-colored skin, is gregarious and excited about every customer. Not everything in his shop is for sale, rendering the shop’s eclectic collection of strange relics, statues, and monument fragments part museum. Vorvashali’s stock changes constantly, as his dozens of contacts from Magnimar come in weekly to buy and trade stock. Adventurers seeking magic items and other tools of the trade can find what they’re looking for here more often than not.
 
 ### **12 Savah’s Armory - GO HERE - Weapons and Shit**
 Savah’s shop sells all manner of weapons and armor, including several masterwork items and exotic weapons like a spiked chain, a dozen masterwork shuriken, and a +1 repeating crossbow with a darkwood and ivory stock that bears the name “Vansaya.” She’s not sure what the name means—she bought the weapon from an adventurer on the way to Riddleport a year ago, and its high price and complexity have ensured its semi-permanent stay in her shop.

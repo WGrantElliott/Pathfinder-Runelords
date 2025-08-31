@@ -2,6 +2,9 @@
 ### **8 Sage - Discuss Theories**
 Brodert has been studying ancient Thassilonian ruins for the past several years and has recently become obsessed with the Old Light. No one believes his theories that the tower was once a war machine capable of spewing fire to a range of more than a mile.
 
+### **44 The Feathered Serpent - Might be able to get a wand of inflict wounds**
+This cramped and cluttered shop smells of a strange mixture of incense, spice, and dust. Its sole proprietor, Vorvashali Voon (LN male human wizard 2/rogue 2/expert 2), an exotic-looking character with bright blue eyes, long red hair, and almost bronze-colored skin, is gregarious and excited about every customer. Not everything in his shop is for sale, rendering the shop’s eclectic collection of strange relics, statues, and monument fragments part museum. Vorvashali’s stock changes constantly, as his dozens of contacts from Magnimar come in weekly to buy and trade stock. Adventurers seeking magic items and other tools of the trade can find what they’re looking for here more often than not.
+
 ### **12 Savah’s Armory - GO HERE - Weapons and Shit**
 Savah’s shop sells all manner of weapons and armor, including several masterwork items and exotic weapons like a spiked chain, a dozen masterwork shuriken, and a +1 repeating crossbow with a darkwood and ivory stock that bears the name “Vansaya.” She’s not sure what the name means—she bought the weapon from an adventurer on the way to Riddleport a year ago, and its high price and complexity have ensured its semi-permanent stay in her shop.
 
